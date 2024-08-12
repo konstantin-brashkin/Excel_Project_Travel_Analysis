@@ -14,7 +14,8 @@ You can also download the actual Excel file from this repository or by this link
 # Cleaning & Transforming Dataset
 
 First step was to **Clean & Transform** Dataset, so it is fully prepared for further work.  
-This is what raw dataset looks like before any changes:  
+This is what raw dataset looks like before any changes:
+
 ![screenshot 1.png](assets%2Fscreenshot%201.png)
 # Creating Pivot Tables and Pivot Charts
 
