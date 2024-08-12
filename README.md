@@ -29,9 +29,16 @@ This is how dataset looks after all these changes:
 
 # Creating Pivot Tables and Pivot Charts
 
-Second step was to create Pivot Tables to extract meaningfully information from the dataset, 
-you can see it in third worksheet called "Pivot Tables". In total, 6 Pivot tables were created. 
-Then I created Pivot Charts based on these Pivot Tables to represent them graphically. 
+Second step was to create Pivot Tables to extract meaningfully information from the dataset. In total, 6 Pivot tables 
+were created. 
+Then I created Pivot Charts based on these Pivot Tables to represent them graphically.  
+For example, here is two **Pivot Tables** and **Pivot Charts**:
+
+![screenshot 3.png](assets%2Fscreenshot%203.png)
+
+You can see other 4 pivot tables and charts in  the actual Excel file   
+that you can download from this repository or by this link:
+[Excel Travel Analysis Project](Travel%20Analysis%20(Excel%20Portfolio%20Project).xlsx).
 
 # Creating Dashboard
 
