@@ -17,6 +17,17 @@ First step was to **Clean & Transform** Dataset, so it is fully prepared for fur
 This is what part of this raw dataset looks like before any changes:
 
 ![screenshot 1.png](assets%2Fscreenshot%201.png)
+
+To bring this dataset into convinient and clean form I deleted duplicates, rounded and formated currency values, 
+categorized continuous data into more manageable groups, such as age ranges and income brackets replaced, replaced 
+abbreviations with full words for better presentation in later created charts, formatted the entire dataset as a table to give 
+it a more presentable look + expanded functionality such as filters, drop down lists etc.
+
+This is how dataset looks after all these changes:
+
+![screenshot 2.png](assets%2Fscreenshot%202.png)
+
+
 # Creating Pivot Tables and Pivot Charts
 
 # Creating Dashboard
