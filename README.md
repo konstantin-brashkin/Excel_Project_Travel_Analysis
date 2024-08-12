@@ -34,7 +34,7 @@ were created.
 Then I created Pivot Charts based on these Pivot Tables to represent them graphically.  
 For example, here is two **Pivot Tables** and **Pivot Charts**:
 
-![screenshot 3.png](assets%2Fscreenshot%203.png)
+![screenshot 3.png](assets%2FScreenshot%203.png)
 
 You can see **other 4 pivot tables and charts** in  the actual Excel file   
 that you can download from this repository or by this link:
