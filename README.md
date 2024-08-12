@@ -18,7 +18,7 @@ This is what part of this raw dataset looks like before any changes:
 
 ![screenshot 1.png](assets%2Fscreenshot%201.png)
 
-To bring this dataset into convinient and clean form✨ I deleted duplicates, rounded and formated currency values, 
+To bring this dataset into convenient and clean form✨ I deleted duplicates, rounded and formated currency values, 
 categorized continuous data into more manageable groups, such as age ranges and income brackets replaced, replaced 
 abbreviations with full words for better presentation in later created charts, formatted the entire dataset as a table to give 
 it a more presentable look + expanded functionality such as filters, drop down lists etc.
@@ -29,7 +29,7 @@ This is how dataset looks after all these changes:
 
 # Creating Pivot Tables and Pivot Charts
 
-Second step was to created Pivot Tables to extract meaningfully information from the dataset, 
+Second step was to create Pivot Tables to extract meaningfully information from the dataset, 
 you can see it in third worksheet called "Pivot Tables". In total, 6 Pivot tables were created. 
 Then I created Pivot Charts based on these Pivot Tables to represent them graphically. 
 
