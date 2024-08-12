@@ -25,7 +25,7 @@ it a more presentable look + expanded functionality such as filters, drop down l
 
 This is how dataset looks after all these changes:
 
-![screenshot 2.png](assets%2Fscreenshot%202.png)
+![screenshot 2.png](assets%2FScreenshot%202.png)
 
 
 # Creating Pivot Tables and Pivot Charts
