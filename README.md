@@ -36,7 +36,7 @@ For example, here is two **Pivot Tables** and **Pivot Charts**:
 
 ![screenshot 3.png](assets%2Fscreenshot%203.png)
 
-You can see other 4 pivot tables and charts in  the actual Excel file   
+You can see **other 4 pivot tables and charts** in  the actual Excel file   
 that you can download from this repository or by this link:
 [Excel Travel Analysis Project](Travel%20Analysis%20(Excel%20Portfolio%20Project).xlsx).
 
