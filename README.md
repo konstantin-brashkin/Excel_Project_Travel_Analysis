@@ -1,7 +1,7 @@
 # Introduction
 
-Hi! This is my **Excel Portfolio Project**. Here I'm working with a Dataset📅
-that contains Traveling details of people with various demographic factors like age, gender, 
+Hi! This is my **Excel Portfolio Project**. Here I'm working with a Dataset
+that contains Traveling✈️ ️details of people with various demographic factors like age, gender, 
 marital status, occupation etc. The project involves cleaning & transforming dataset, creating 
 **Pivot Tables** and **Pivot Charts** to extract meaningfully information and represent it graphically,
 creation of **Dashboard** with additional filters that interactively connected to charts!
@@ -35,6 +35,9 @@ Then I created Pivot Charts based on these Pivot Tables to represent them graphi
 For example, here is two **Pivot Tables** and **Pivot Charts**:
 
 ![screenshot 3.png](assets%2FScreenshot%203.png)
+
+First Pivot Tables represents average quantity of trips per year by amount of children👶🏻 person has!  
+Second represents average quantity of trips✈️ per year by age group!
 
 You can see **other 4 pivot tables and charts** in  the actual Excel file   
 that you can download from this repository or by this link:
