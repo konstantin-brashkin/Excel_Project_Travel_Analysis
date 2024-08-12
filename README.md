@@ -29,7 +29,7 @@ This is how dataset looks after all these changes:
 
 # Creating Pivot Tables and Pivot Charts
 
-Second step was to create Pivot Tables to extract meaningfully information from the dataset. In total, 6 Pivot tables 
+Second step was to create Pivot Tables to extract meaningfully information from the dataset. In total, 6 Pivot tables📅 
 were created. 
 Then I created Pivot Charts based on these Pivot Tables to represent them graphically.  
 For example, here is two **Pivot Tables** and **Pivot Charts**:
