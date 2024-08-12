@@ -45,7 +45,7 @@ that you can download from this repository or by this link:
 
 # Creating Dashboard
 
-And the last step was to combine all Pivot Charts into one nice **Dashboard** with additional filters 
+And the last step was to combine all Pivot Charts into one nice **Dashboard**📈 with additional filters 
 that interactively connected to charts!  
 Here it is:
 
